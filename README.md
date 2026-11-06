@@ -83,9 +83,3 @@ tests/                pruebas unitarias
 ejemplos/             instancia pequeña con resultado esperado y el caso de 15 nodos del monitor
 manual_tecnico.md     manual técnico
 ```
-
-## Estado
-
-Hecho: solución base de las dos partes, verificación de restricciones, trazas, pruebas.
-Pendiente por confirmar con el monitor: si el coeficiente de utilidad se usa en el caso base (él lo recordaba como parte de una variante).
-Pendiente (entregas posteriores): variantes, algoritmo exacto comparado a gran escala, mediciones de tiempo con varios tamaños y gráficas.
